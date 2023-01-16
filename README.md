@@ -1,4 +1,4 @@
-# DeeplinkNativeAndroid
+# DeeplinkKotlinAndroid
 
 link deeplink: https://www.yosteven.com/deeplinkNative
 
